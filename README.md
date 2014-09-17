@@ -1,4 +1,4 @@
-VBogot-
+VBogota
 =======
 
 aplicaciòn para conocer Bogotà
